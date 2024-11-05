@@ -1,0 +1,39 @@
+{
+  "file": "etoll_update",
+  "root": "Проблеми з e-TOLL PL",
+  "name": "Оновлення (додаток заблоковано)",
+  "iconAsset": "etoll.png",
+  "title": "Оновлення e-TOLL PL",
+  "description": "На смартфоні встановленно застарілу версію додатку. Потрібно виконати оновлення",
+  "imgAsset": "etoll_update.jpg",
+  "stepsToResolve": [
+    {
+      "description": "В меню телефону знайдіть Play Маркет",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": "play.png"
+    },
+    {
+      "description": "Виконайте пошук додатку e-TOLL PL",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": ""
+    },
+    {
+      "description": "Відкрийте e-TOLL PL та натисніть оновити",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": ""
+    },
+    {
+      "description": "Дочекайтесь завантаження та встановлення оновлень",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": ""
+    }
+  ]
+}

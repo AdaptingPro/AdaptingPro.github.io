@@ -1,0 +1,51 @@
+{
+  "file": "pigeon",
+  "root": "Проблеми з додатком \"Сизий голуб\"",
+  "name": "Проблеми з додатком \"Сизий голуб\"",
+  "iconAsset": "ic_launcher.png",
+  "title": "Дані водія відлсутні в 1С",
+  "description": "Водій вносидь дані виконання в Сизому голубі, але вони відсутні у 1С (Виконання не створилось).",
+  "link": "",
+  "linkTitle": "",
+  "imgAsset": "",
+  "stepsToResolve": [
+    {
+      "description": "В меню телефону знайдіть Play Маркет",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": "play.png"
+
+    },
+    {
+      "description": "Виконайте пошук додатку e-TOLL PL",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": ""
+    },
+    {
+      "description": "Відкрийте e-TOLL PL та натисніть оновити",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": ""
+    },
+    {
+      "description": "Дочекайтесь завантаження та встановлення оновлень",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": ""
+    },
+    {
+      "description": "",
+      "type": "link",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": "",
+      "link": "https://play.google.com/store/apps/details?id=pl.gov.mf.etoll&pcampaignid=web_share",
+      "linkTitle": "Link to play store"
+    }
+  ]
+}
