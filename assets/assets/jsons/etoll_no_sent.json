@@ -1,0 +1,39 @@
+{
+  "file": "etoll_no_sent",
+  "root": "Проблеми з e-TOLL PL",
+  "name": "Відсутній SENT",
+  "iconAsset": "etoll.png",
+  "title": "Відсутній SENT в e-TOLL PL",
+  "description": "Відсутній SENT в e-TOLL PL",
+  "imgAsset": "etoll_update.jpg",
+  "stepsToResolve": [
+    {
+      "description": "В меню телефону знайдіть Play Маркет",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": "play.png"
+    },
+    {
+      "description": "Виконайте пошук додатку e-TOLL PL",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": ""
+    },
+    {
+      "description": "Відкрийте e-TOLL PL та натисніть оновити",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": ""
+    },
+    {
+      "description": "Дочекайтесь завантаження та встановлення оновлень",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "",
+      "icon": ""
+    }
+  ]
+}

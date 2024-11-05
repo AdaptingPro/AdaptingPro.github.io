@@ -1,0 +1,25 @@
+{
+  "file": "internet",
+  "root": "Проблеми з Інтернетом",
+  "name": "Проблеми з доступом до мережі інтернет",
+  "iconAsset": "",
+  "title": "Проблеми з Інтернетом",
+  "description": "Відсутнє підключення до мережі інтернет на смартфоні водія.",
+  "imgAsset": "",
+  "stepsToResolve": [
+    {
+      "description": "Вибір мережі в ручному режимі",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "network.mp4",
+      "icon": ""
+    },
+    {
+      "description": "Створення нової точки доступу (APN)",
+      "type": "default",
+      "imgAsset": "",
+      "videoAsset": "newapn.mp4",
+      "icon": ""
+    }
+  ]
+}
